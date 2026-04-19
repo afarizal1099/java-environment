@@ -487,5 +487,6 @@ Es una base adecuada para evolucionar hacia versiones más robustas y escalables
 
 ## Autor
 
+Diego Alexander Muñoz Reyes
 Proyecto desarrollado como ejercicio académico y práctico en Java 17.
 
