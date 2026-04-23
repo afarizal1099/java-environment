@@ -1,11 +1,11 @@
 
 ## Integrantes
 
-Juan Sebastián Díaz Rodríguez \n
-Fabián René García Perdomo \n
-Stiven Gonzalez Olaya \n
-Andrés Felipe Garzón Barreto\n
-Andrés Felipe Ariza Londoño\n
+Juan Sebastián Díaz Rodríguez<br>
+Fabián René García Perdomo<br>
+Stiven Gonzalez Olaya<br>
+Andrés Felipe Garzón Barreto<br>
+Andrés Felipe Ariza Londoño<br>
 
 ---
 
